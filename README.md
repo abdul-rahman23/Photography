@@ -16,6 +16,7 @@ A clean, responsive photography-themed web application designed to showcase phot
 
 ## 🖼️ Demo
 ![Screenshot](https://github.com/abdul-rahman23/photography/blob/main/ss01.png)
+![Screenshot](https://github.com/abdul-rahman23/photography/blob/main/ss.png)
 
 ## 📁 How to Run
 Just open `index.php` in your browser, or host it online.
