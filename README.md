@@ -11,6 +11,7 @@ A clean, responsive photography-themed web application designed to showcase phot
 ## 🛠️ Tech Stack
 - HTML
 - CSS
+- PHP
 - JavaScript (optional)
 
 ## 🖼️ Demo
